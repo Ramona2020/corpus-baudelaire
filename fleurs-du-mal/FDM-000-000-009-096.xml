@@ -17,6 +17,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
           <resp>Critical Apparatus</resp>
           <name xml:id="TFH">Todd F. Hughes</name>
         </respStmt>
+        <respStmt>
+          <resp>Review</resp>
+          <name xml:id="RVR">Ramona V. Romero</name>
+        </respStmt>
         <sponsor>Jean and Alexander Heard Library</sponsor>
       </titleStmt>
       <publicationStmt>
@@ -43,11 +47,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <pubPlace>Amsterdam</pubPlace>
                   <publisher>À L'Enseigne du Coq</publisher>
                   <date>1866</date>
-                  <note>According to the preface of the 1890 edition (Paris, A.
-                                        Lemerre), this is a false imprint, the book actually being
-                                        published in Brussels by Poulet-Malassis.</note>
-                  <note>Includes condemned pieces removed from Fleurs du Mal: p.
-                                        9-55</note>
+                  <note>According to the preface of the 1890 edition (Paris, A. Lemerre), this is a
+                    false imprint, the book actually being published in Brussels by
+                    Poulet-Malassis.</note>
+                  <note>Includes condemned pieces removed from Fleurs du Mal: p. 9-55</note>
                   <note>With a frontispeice etching by Félicien Rops</note>
                 </imprint>
                 <extent>163 p.</extent>
@@ -90,7 +93,7 @@ Online Distributed Proofreading Team.</p>
     <body>
       <div type="poem">
         <head>
-          <title type="main">Les Yeux de Berthe</title>
+          <title type="main">LES YEUX DE BERTHE</title>
         </head>
         <lg type="stanza" subtype="quatrain" n="1">
           <l n="1">Vous pouvez mépriser les yeux les plus célèbres,</l>
