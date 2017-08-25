@@ -15,6 +15,10 @@
           <resp>Critical Apparatus</resp>
           <name xml:id="TFH">Todd F. Hughes</name>
         </respStmt>
+        <respStmt>
+          <resp>Review</resp>
+          <name xml:id="RVR">Ramona V. Romero</name>
+        </respStmt>
         <sponsor>Jean and Alexander Heard Library</sponsor>
       </titleStmt>
       <publicationStmt>
@@ -62,7 +66,6 @@
                -->
       </sourceDesc>
     </fileDesc>
-    <!-- This is a comment that means nothing -->
   </teiHeader>
   <text>
     <body>
@@ -72,7 +75,10 @@
         </head>
         <lg type="stanza" subtype="quatrain" n="1">
           <l n="1">Ah! ne ralentis pas tes flammes;</l>
-          <l n="2">Réchauffe mon coeur engourdi,</l>
+          <l n="2">Réchauffe mon <choice>
+              <orig>cœur</orig>
+              <reg>coeur</reg>
+            </choice> engourdi,</l>
           <l n="3">Volupté, torture des âmes!</l>
           <l n="4"><emph rend="italic"> Diva! supplicem exaudi!</emph></l>
         </lg>
@@ -85,7 +91,7 @@
         <lg type="stanza" subtype="tercet" n="3">
           <l n="9">Volupté, sois toujours ma reine!</l>
           <l n="10">Prends le masque d'une sirène</l>
-          <l n="11">Faîte de chair et de velours.</l>
+          <l n="11">Faîte de chair et de velours,</l>
         </lg>
         <lg type="stanza" subtype="tercet" n="4">
           <l n="12">Ou verse-moi tes sommeils lourds</l>
